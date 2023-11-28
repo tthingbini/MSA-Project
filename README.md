@@ -12,7 +12,7 @@
 ### Repository Link 
 <br>
 
-[🔗src repo](https://github.com/tthingbini/ecommerce-workshop-src.git)
+[🔗src repo](https://github.com/tthingbini/ecommerce-workshop-src.git) : 소스코드 레포지토리입니다.
 
 
 [🔗k8s manifest](https://github.com/tthingbini/ecommerce-workshop-k8s-manifest.git)
