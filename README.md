@@ -1,7 +1,5 @@
 # IaC를 활용한 MSA 쇼핑몰 구현 Project
-<br>
-
-### 최종 아키텍쳐입니다.
+### ✅최종 아키텍쳐입니다.
 <br>
 <img src="https://github.com/tthingbini/MSA-Project/assets/137377076/8d67b521-42f8-41d9-b396-267744eff862">
 
