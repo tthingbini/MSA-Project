@@ -3,7 +3,7 @@
 
 ### 최종 아키텍쳐입니다.
 <br>
-<img src="https://github.com/tthingbini/MSA-Project/assets/137377076/cd66f7f9-4dad-4bdc-b3b8-11e57aa64a7b">
+<img src="https://github.com/tthingbini/MSA-Project/assets/137377076/8d67b521-42f8-41d9-b396-267744eff862">
 
 ### Repository Link 
 <br>
