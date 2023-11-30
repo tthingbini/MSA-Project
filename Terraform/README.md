@@ -3,6 +3,7 @@
 
 ## ✅Terraform을 이용하여 인프라 구축 및 EKS Cluster 배포
 <br>
+Fusion_ver_04를 사용하였습니다.
 
 ### Architecture
 <br>
