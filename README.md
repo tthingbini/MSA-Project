@@ -1,12 +1,9 @@
 # IaC를 활용한 MSA 쇼핑몰 구현 Project
 <br>
 
-## ✅Terraform을 이용하여 인프라 구축 및 EKS Cluster 배포
+### 최종 아키텍쳐입니다.
 <br>
-
-### Architecture
-<br>
-<img src="https://github.com/tthingbini/MSA-Project/assets/137377076/527234de-3291-43df-b105-66d16798d11c">
+<img src="https://github.com/tthingbini/MSA-Project/assets/137377076/cd66f7f9-4dad-4bdc-b3b8-11e57aa64a7b">
 
 ### Repository Link 
 <br>
